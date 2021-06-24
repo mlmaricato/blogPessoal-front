@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://www.hypeness.com.br/1/2014/02/NicholasBuerAstrophotography18.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
